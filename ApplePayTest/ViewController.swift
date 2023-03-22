@@ -52,5 +52,3 @@ extension ViewController: PKPaymentAuthorizationViewControllerDelegate {
     
 }
 
-
-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
